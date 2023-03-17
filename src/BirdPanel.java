@@ -10,7 +10,6 @@ import java.awt.image.BufferedImage;
 import java.io.*;
 import java.sql.SQLSyntaxErrorException;
 import java.util.Scanner;
-//i love vodka
 
 public class BirdPanel extends JPanel {
     public Bird bird = new Bird();
